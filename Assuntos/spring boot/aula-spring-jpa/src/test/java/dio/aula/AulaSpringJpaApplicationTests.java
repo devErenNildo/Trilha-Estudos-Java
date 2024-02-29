@@ -1,10 +1,10 @@
-package eren.springboot;
+package dio.aula;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PrimeirosPassosSpringApplicationTests {
+class AulaSpringJpaApplicationTests {
 
 	@Test
 	void contextLoads() {
